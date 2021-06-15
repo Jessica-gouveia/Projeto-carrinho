@@ -1,4 +1,4 @@
-#Projeto Carrinho de Supermercado :shopping_cart:
+# Projeto Carrinho de Supermercado :shopping_cart:
 
 ##### Para realizar esse projeto foi utilizado todos os conhecimentos adquiridos nas últimas aulas de lógica de programação javascript.
 
